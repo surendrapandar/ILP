@@ -100,6 +100,8 @@ npm start
 ```
 
 
-# Mini Project 
+# Mini Project is live (Quote2Note) 🚀
 
-complete my mini project, just a final touch is left, i will soon update the link here and also mention it in email also. 
+[Github Repo Link](https://github.com/surendrapandar/Quote2Note)
+
+[Live Project Link](https://surendrapandar.github.io/Quote2Note/)
