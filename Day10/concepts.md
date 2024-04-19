@@ -19,7 +19,7 @@ npm install -g typescript
 
 After installing TypeScript, you can create a new TypeScript file `(.ts)` and write your code.
  
-Here's a basic example:
+Here's a example:
 
 ```javascript
 
